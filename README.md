@@ -2,7 +2,7 @@
 🎓 An aspiring software engineer<br/>
 💻 Passionate about web development, UI/UX design, and currently exploring the world of data science and ML<br/>
 🚀 Currently working as a UI designer<br/>
-📹 I make content simplifying computer science in my instagram page<br/>
+📹 I make content simplifying computer science in my [instagram page](https://www.instagram.com/cs0geek?igsh=aXl6NDczMmtnY2s0)<br/>
 
 
 ## 🌐 Socials:
